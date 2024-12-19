@@ -1,6 +1,7 @@
 # The Next Building Company
 
-🔨👷🏻‍♂️ It is a building company app developed on Next.js + TypeScript as frontend part using server-side components + CMS Strapi to manage the content part.  
+👷🏻‍♂️ It is a building company app developed on Next.js + TypeScript as frontend part using server-side components + CMS Strapi to manage the content part.
+
 In this project I use libraries and framework:  
 🔹Embla Carousel - for building customizable and lightweight sliders;  
 🔹Leaflet Map - for creating interactive and mobile-friendly map;  
